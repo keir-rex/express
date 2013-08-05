@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+</head>
+<body>
+<form action='~/express_etc/post/' method='post'>
+   <input type='text' name='name'></input>
+</form>
+</body>
+</html>
